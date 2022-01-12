@@ -1,9 +1,12 @@
 {
   "domain": "broadlinklocal",
-  "name": "BroadlinkLocal",
-  "documentation": "https://www.home-assistant.io/integrations/broadlink",
+  "name": "Broadlink Local",
+  "version": "1.0",
+  "documentation": "https://github.com/jgruber/broadlinklocal",
+  "issuetracker": "https://github.com/jgruber/broadlinklocal/iisues",
+  "dependencies": [],
   "requirements": ["git+https://github.com/jgruber/python-broadlink.git@master#python-broadlink==0.18.0"],
-  "codeowners": ["@danielhiversen", "@felipediel", "@L-I-Am", "jgruber"],
+  "codeowners": ["@jgruber"],
   "config_flow": true,
   "dhcp": [
     {

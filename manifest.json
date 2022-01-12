@@ -1,6 +1,6 @@
 {
-  "domain": "broadlink",
-  "name": "Broadlink",
+  "domain": "broadlinklocal",
+  "name": "BroadlinkLocal",
   "documentation": "https://www.home-assistant.io/integrations/broadlink",
   "requirements": ["git+https://github.com/jgruber/python-broadlink.git@master#python-broadlink==0.18.0"],
   "codeowners": ["@danielhiversen", "@felipediel", "@L-I-Am", "jgruber"],

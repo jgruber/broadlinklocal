@@ -1,0 +1,5 @@
+{
+    "name": "BroadLink Local Customizations",
+    "domains": ["remote", "sensor", "switch", "light"],
+    "render_readme": false
+}
